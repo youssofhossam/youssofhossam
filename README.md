@@ -30,24 +30,6 @@ I am a passionate software engineering student focused on building intelligent s
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssofhossam&show_icons=true&theme=radical&hide_border=true" height="180" alt="Youssof's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssofhossam&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
-</div>
-
----
-
-### 🏆 Featured Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[🛡️ Fraud Detection System](https://github.com/youssofhossam/Credit-Card-Fraud-Detection-)** | End-to-end ML pipeline with 97% Recall. | Python, Sklearn, Streamlit |
-| **(Coming Soon)** | Graduation Project: AI & Audio Processing. | Deep Learning |
-
----
-
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-hossam88/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](youssofhossam.yh@gmail.com)
